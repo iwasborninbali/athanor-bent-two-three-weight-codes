@@ -1,0 +1,13 @@
+GF(3^4) q=81 poly=[1, 0, 1, 1, 1] primitive=10 x^14 planar=True all_derivatives=80
+  c=1 eta=1 epsilon=-1 D_length=20 weights=[(0, 1), (12, 60), (18, 20)] projective_classes=40 minimal=False containment_witness=(1, 10, 12, 18)
+  c=10 eta=-1 epsilon=1 D_length=32 weights=[(0, 1), (18, 32), (24, 48)] projective_classes=40 minimal=True containment_witness=None
+  tested_coefficients=80 epsilon_counts={-1: 40, 1: 40} weight_enumerator_types=2 minimality_counts={(-1, False): 40, (1, True): 40} all_exact_Walsh_and_tables=PASS
+GF(3^5) q=243 poly=[1, 0, 0, 0, 2, 1] primitive=3 x^14 planar=True all_derivatives=242
+  c=1 eta=1 epsilon=1 D_length=80 weights=[(0, 1), (48, 90), (54, 80), (60, 72)] projective_classes=121 minimal=True containment_witness=None
+  c=3 eta=-1 epsilon=-1 D_length=80 weights=[(0, 1), (48, 90), (54, 80), (60, 72)] projective_classes=121 minimal=True containment_witness=None
+  tested_coefficients=242 epsilon_counts={-1: 121, 1: 121} weight_enumerator_types=1 minimality_counts={(-1, True): 121, (1, True): 121} all_exact_Walsh_and_tables=PASS
+GF(3^7) q=2187 poly=[1, 0, 0, 0, 0, 1, 2, 1] primitive=3 x^14 planar=True all_derivatives=2186
+  c=1 eta=1 epsilon=1 D_length=728 weights=[(0, 1), (468, 756), (486, 728), (504, 702)] projective_classes=1093 minimal=True containment_witness=None
+  c=3 eta=-1 epsilon=-1 D_length=728 weights=[(0, 1), (468, 756), (486, 728), (504, 702)] projective_classes=1093 minimal=True containment_witness=None
+  tested_coefficients=2 epsilon_counts={-1: 1, 1: 1} weight_enumerator_types=1 minimality_counts={(-1, True): 1, (1, True): 1} all_exact_Walsh_and_tables=PASS
+  q=2187: two square-class representatives only; gcd(14,q-1)=2
