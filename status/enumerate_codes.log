@@ -1,0 +1,9 @@
+GF(3^3) F(x)=x^2 f(x)=Tr(x^2) level=0 n=8 dimension=3 histogram={0: 1, 4: 12, 6: 8, 8: 6} minimal=False
+  nonminimal witness beta indices 4 and 1; containing=[2, 1, 2, 1, 1, 2, 2, 1] contained=[2, 1, 0, 0, 1, 2, 0, 0]
+GF(3^3) F(x)=x^2 f(x)=Tr(x^2) level=1 n=6 dimension=3 histogram={0: 1, 2: 6, 4: 12, 6: 8} minimal=False
+  nonminimal witness beta indices 1 and 3; containing=[2, 1, 2, 1, 0, 0] contained=[2, 2, 1, 1, 0, 0]
+GF(3^3) F(x)=x^2 f(x)=Tr(x^2) level=2 n=12 dimension=3 histogram={0: 1, 6: 8, 8: 6, 10: 12} minimal=False
+  nonminimal witness beta indices 1 and 9; containing=[2, 1, 0, 0, 2, 1, 2, 1, 1, 2, 1, 2] contained=[2, 1, 0, 0, 0, 2, 0, 2, 0, 1, 0, 1]
+GF(3^4) F(x)=x^2 f(x)=Tr(x^2) level=0 n=20 dimension=4 histogram={0: 1, 12: 60, 18: 20} minimal=False
+  nonminimal witness beta indices 1 and 3; containing=[0, 0, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2] contained=[0, 0, 0, 1, 2, 0, 1, 2, 0, 1, 2, 0, 1, 2, 0, 1, 2, 0, 1, 2]
+Wrote witness.json; all Walsh squared magnitudes checked exactly; no floating point.
