@@ -1,0 +1,10 @@
+EXPLICIT first_planar witness: [0, 0, 1, 0, 3, 7, 2, 8, 3]
+  c=1 weak_sign_epsilon=-1
+  c=2 weak_sign_epsilon=-1
+  c=3 weak_sign_epsilon=-1
+  c=4 weak_sign_epsilon=1
+  c=5 weak_sign_epsilon=1
+  c=6 weak_sign_epsilon=-1
+  c=7 weak_sign_epsilon=1
+  c=8 weak_sign_epsilon=1
+INDEPENDENT exhaustive GF(9): checked=4782969 planar=1296 components=10368 weak_failures=0 positive_epsilon=5184 negative_epsilon=5184 fnv64=4bedb2f3ee993315

@@ -1,0 +1,4 @@
+GF(3^2) q=9 poly=[1, 0, 1] primitive=4 HK_k=1 exponent=6 c=4 W0_pair=(-3, 0) epsilon=1 global_Walsh=PASS Theorem_3_1_printed_length=4
+  defining_set_length=0 weight_histogram=[(0, 9)] Table_I=DEGENERATE_m2 minimal=N/A (zero-length code) projective_classes=0 containment_witness=None
+GF(3^6) q=729 poly=[1, 0, 0, 0, 1, 1, 1] primitive=4 HK_k=3 exponent=210 c=703 W0_pair=(-27, 0) epsilon=1 global_Walsh=PASS Theorem_3_1_printed_length=260
+  defining_set_length=224 weight_histogram=[(0, 1), (144, 504), (162, 224)] Table_I=PASS minimal=True projective_classes=364 containment_witness=None

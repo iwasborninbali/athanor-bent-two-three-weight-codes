@@ -1,0 +1,6 @@
+INDEPENDENT COUNTEREXAMPLE to printed parameter statements:
+p=3 m=6 F=GF(3)[t]/(t^6+t^5+t^4+1); f(x)=Tr(x^2), epsilon=-1
+phase_counts_f0_f1_f2=[261, 234, 234] W0_as_(A+Bzeta)=(27, 0)
+Theorem_3_1_printed_length=224 actual_length=260 full_code_weight_histogram=[(0, 1), (162, 260), (180, 468)]
+Corollary_3_3_printed_length=112 actual_punctured_length=130 punctured_weight_histogram=[(0, 1), (81, 260), (90, 468)]
+tables_I_III_with_sign_factor_match_actual=True
