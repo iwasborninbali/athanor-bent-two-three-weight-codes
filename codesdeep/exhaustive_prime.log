@@ -1,0 +1,3 @@
+{"components": 4, "failures": 0, "normalized_maps": 3, "p": 3, "planar_maps": 2, "signs": {"-1": 2, "1": 2}, "walsh_coefficients": 12}
+{"components": 16, "failures": 0, "normalized_maps": 125, "p": 5, "planar_maps": 4, "signs": {"-1": 8, "1": 8}, "walsh_coefficients": 80}
+{"coverage": "all maps GF(3) and GF(5) via affine normalization", "summary": "PASS"}

@@ -1,0 +1,20 @@
+{"checked_component": 1, "class": "prime_x2", "derivatives_checked": 2, "m": 1, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 3}
+{"checked_component": 1, "class": "2.1_FF", "derivatives_checked": 8, "m": 2, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 9}
+{"checked_component": 1, "class": "3.1_FF", "derivatives_checked": 26, "m": 3, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 27}
+{"checked_component": 1, "class": "3.2_Albert", "derivatives_checked": 26, "m": 3, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 27}
+{"checked_component": 1, "class": "4.1_FF", "derivatives_checked": 80, "m": 4, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 81}
+{"checked_component": 1, "class": "4.2_CM", "derivatives_checked": 80, "m": 4, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 81}
+{"checked_component": 1, "class": "4.3_Dickson_BH_ZP", "derivatives_checked": 80, "m": 4, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 81}
+{"checked_component": 1, "class": "5.1_FF", "derivatives_checked": 242, "m": 5, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 243}
+{"checked_component": 1, "class": "5.2_Albert", "derivatives_checked": 242, "m": 5, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 243}
+{"checked_component": 1, "class": "5.3_Albert", "derivatives_checked": 242, "m": 5, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 243}
+{"checked_component": 1, "class": "5.4_CM", "derivatives_checked": 242, "m": 5, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 243}
+{"checked_component": 1, "class": "5.5_TST_DingYuan", "derivatives_checked": 242, "m": 5, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 243}
+{"checked_component": 1, "class": "5.6_TST_DingYuan", "derivatives_checked": 242, "m": 5, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 243}
+{"checked_component": 1, "class": "5.7_ACW", "derivatives_checked": 242, "m": 5, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 243}
+{"checked_component": 1, "class": "5.8_CK", "derivatives_checked": 242, "m": 5, "maximum_complex_phase_residual": 0.0, "p": 3, "status": "PASS", "walsh_indices": 243}
+{"checked_component": 1, "class": "prime_x2", "derivatives_checked": 4, "m": 1, "maximum_complex_phase_residual": 0.0, "p": 5, "status": "PASS", "walsh_indices": 5}
+{"checked_component": 1, "class": "p2_FF", "derivatives_checked": 24, "m": 2, "maximum_complex_phase_residual": 0.0, "p": 5, "status": "PASS", "walsh_indices": 25}
+{"checked_component": 1, "class": "p3_FF", "derivatives_checked": 124, "m": 3, "maximum_complex_phase_residual": 0.0, "p": 5, "status": "PASS", "walsh_indices": 125}
+{"checked_component": 1, "class": "p3_Albert", "derivatives_checked": 124, "m": 3, "maximum_complex_phase_residual": 0.0, "p": 5, "status": "PASS", "walsh_indices": 125}
+{"c1_walsh_coefficients": 2533, "independent_representatives": 19, "result": "PASS", "scope": "one component per class, not all c"}
