@@ -5,3 +5,5 @@ Linear codes with two or three weights from weakly regular bent functions (arXiv
 Athanor lab (Aleksei Kudriashov). Chosen by the lab's radar on 15 November 2026 (OpenAlex citations and recent citation rate, arXiv papers with checkable open problems). Work by independent agents, each result with a certificate (two independent programs or a complete written argument), a prior-art record and the guide's own check before it is called a result.
 
 License: text and data CC BY 4.0, code MIT.
+
+Archived on Zenodo: version 1.0, [doi:10.5281/zenodo.24239163](https://doi.org/10.5281/zenodo.24239163) (all versions: [doi:10.5281/zenodo.24239162](https://doi.org/10.5281/zenodo.24239162)).
