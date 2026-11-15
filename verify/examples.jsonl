@@ -1,0 +1,28 @@
+{"checked_code_families": 2, "dimension": 6, "distance": 162, "label": "4.1a", "length": 252, "m": 6, "p": 3, "page": 11, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 2, "dimension": 6, "distance": 144, "label": "4.1b", "length": 234, "m": 6, "p": 3, "page": 11, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 2, "dimension": 6, "distance": 5000, "label": "4.1c", "length": 6300, "m": 6, "p": 5, "page": 11, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 2, "dimension": 6, "distance": 4900, "label": "4.1d", "length": 6200, "m": 6, "p": 5, "page": 12, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 1, "dimension": 5, "distance": 940, "label": "4.2a", "length": 1200, "m": 5, "p": 5, "page": 12, "result": "CONFIRMED", "type": "example"}
+{"actual": [90, 5, 54], "actual_distribution": {"0": 1, "54": 80, "60": 72, "66": 90}, "kind": "nsq", "label": "4.2b", "page": 12, "printed": [60, 5, 40], "printed_distribution": {"0": 1, "40": 24, "48": 40, "52": 60}, "type": "example_mismatch"}
+{"checked_code_families": 1, "dimension": 5, "distance": 40, "label": "4.2b", "length": 60, "m": 5, "p": 3, "page": 12, "result": "REFUTED", "type": "example"}
+{"checked_code_families": 1, "dimension": 5, "distance": 1000, "label": "4.3a", "length": 1300, "m": 5, "p": 5, "page": 12, "result": "CONFIRMED", "type": "example"}
+{"actual": [72, 5, 42], "actual_distribution": {"0": 1, "42": 72, "48": 90, "54": 80}, "kind": "sq", "label": "4.3b", "page": 12, "printed": [40, 5, 28], "printed_distribution": {"0": 1, "28": 40, "32": 60, "40": 24}, "type": "example_mismatch"}
+{"checked_code_families": 1, "dimension": 5, "distance": 28, "label": "4.3b", "length": 40, "m": 5, "p": 3, "page": 12, "result": "REFUTED", "type": "example"}
+{"checked_code_families": 2, "dimension": 4, "distance": 9, "label": "4.4a", "length": 15, "m": 4, "p": 3, "page": 13, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 2, "dimension": 4, "distance": 6, "label": "4.4b", "length": 12, "m": 4, "p": 3, "page": 13, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 2, "dimension": 6, "distance": 81, "label": "4.4c", "length": 126, "m": 6, "p": 3, "page": 13, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 2, "dimension": 4, "distance": 50, "label": "4.4d", "length": 65, "m": 4, "p": 5, "page": 13, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 2, "dimension": 4, "distance": 45, "label": "4.4e", "length": 60, "m": 4, "p": 5, "page": 13, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 1, "dimension": 5, "distance": 21, "label": "4.5a", "length": 36, "m": 5, "p": 3, "page": 13, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 1, "dimension": 5, "distance": 27, "label": "4.5b", "length": 45, "m": 5, "p": 3, "page": 13, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 1, "dimension": 3, "distance": 3, "label": "4.6a", "length": 6, "m": 3, "p": 3, "page": 13, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 1, "dimension": 3, "distance": 7, "label": "4.6b", "length": 10, "m": 3, "p": 5, "page": 14, "result": "CONFIRMED", "type": "example"}
+{"checked_code_families": 1, "dimension": 3, "distance": 17, "label": "4.6c", "length": 21, "m": 3, "p": 7, "page": 14, "result": "CONFIRMED", "type": "example"}
+{"G(d)": 14, "G(d+1)": 17, "Griesmer_proves_d_optimal": true, "d": 9, "k": 4, "label": "4.4a", "n": 15, "p": 3, "result": "CONFIRMED", "type": "griesmer"}
+{"G(d)": 10, "G(d+1)": 12, "Griesmer_proves_d_optimal": false, "d": 6, "k": 4, "label": "4.4b", "n": 12, "p": 3, "result": "NOT_ESTABLISHED_BY_BOUND", "type": "griesmer"}
+{"G(d)": 122, "G(d+1)": 127, "Griesmer_proves_d_optimal": true, "d": 81, "k": 6, "label": "4.4c", "n": 126, "p": 3, "result": "CONFIRMED", "type": "griesmer"}
+{"G(d)": 63, "G(d+1)": 66, "Griesmer_proves_d_optimal": true, "d": 50, "k": 4, "label": "4.4d", "n": 65, "p": 5, "result": "CONFIRMED", "type": "griesmer"}
+{"G(d)": 5, "G(d+1)": 7, "Griesmer_proves_d_optimal": true, "d": 3, "k": 3, "label": "4.6a", "n": 6, "p": 3, "result": "CONFIRMED", "type": "griesmer"}
+{"G(d)": 10, "G(d+1)": 11, "Griesmer_proves_d_optimal": true, "d": 7, "k": 3, "label": "4.6b", "n": 10, "p": 5, "result": "CONFIRMED", "type": "griesmer"}
+{"G(d)": 21, "G(d+1)": 22, "Griesmer_proves_d_optimal": true, "d": 17, "k": 3, "label": "4.6c", "n": 21, "p": 7, "result": "CONFIRMED", "type": "griesmer"}
+{"confirmed_family_checks": 25, "examples": 18, "griesmer_claims": 7, "griesmer_sufficient": 6, "refuted_family_checks": 2, "type": "summary"}
