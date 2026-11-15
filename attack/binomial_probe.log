@@ -1,0 +1,6 @@
+GF(3^3) q=27 poly=[1, 0, 2, 1] primitive=3 sparse_cases=598 planar_cases=78 exact_Walsh_components_tested=2028 weak_pass=2028 weak_fail=0
+  planar_counts_by_exponent={3: 26, 6: 13, 9: 26, 18: 13}
+  first_planar_(exponent,a)=[(3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8)] failing_witnesses_first=[]
+GF(3^4) q=81 poly=[1, 0, 1, 1, 1] primitive=10 sparse_cases=6160 planar_cases=420 exact_Walsh_components_tested=33600 weak_pass=33600 weak_fail=0
+  planar_counts_by_exponent={3: 80, 6: 40, 9: 80, 10: 30, 18: 70, 27: 80, 54: 40}
+  first_planar_(exponent,a)=[(3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (3, 6), (3, 7), (3, 8)] failing_witnesses_first=[]
