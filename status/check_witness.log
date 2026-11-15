@@ -1,0 +1,5 @@
+PASS GF(3^3) level=0 n=8 dimension=3 histogram={0: 1, 4: 12, 6: 8, 8: 6} minimal=False nonproportional inclusions=192
+PASS GF(3^3) level=1 n=6 dimension=3 histogram={0: 1, 2: 6, 4: 12, 6: 8} minimal=False nonproportional inclusions=264
+PASS GF(3^3) level=2 n=12 dimension=3 histogram={0: 1, 6: 8, 8: 6, 10: 12} minimal=False nonproportional inclusions=72
+PASS GF(3^4) level=0 n=20 dimension=4 histogram={0: 1, 12: 60, 18: 20} minimal=False nonproportional inclusions=480
+PASS: all cases cross-checked; enumerated spans, dimensions, counts, and support containment.
